@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlubuCore.Gitter", "FlubuCore.Gitter\FlubuCore.Gitter.csproj", "{F6625694-0888-4889-B3C6-FC3A3E48FD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build", "Build\Build.csproj", "{6C1109FC-15C5-482B-AF07-185C0349607B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6625694-0888-4889-B3C6-FC3A3E48FD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6625694-0888-4889-B3C6-FC3A3E48FD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6625694-0888-4889-B3C6-FC3A3E48FD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6625694-0888-4889-B3C6-FC3A3E48FD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1109FC-15C5-482B-AF07-185C0349607B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1109FC-15C5-482B-AF07-185C0349607B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1109FC-15C5-482B-AF07-185C0349607B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1109FC-15C5-482B-AF07-185C0349607B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D47D1B0-BD62-47FB-BFFB-9BDBC75103A9}
+	EndGlobalSection
+EndGlobal
